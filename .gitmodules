@@ -1,0 +1,9 @@
+[submodule "python"]
+	path = python
+	url = https://github.com/chefkoch0312/weather_dashboard_python.git
+[submodule "javascript"]
+	path = javascript
+	url = https://github.com/chefkoch0312/weather_dashboard_js.git
+[submodule "react"]
+	path = react
+	url = https://github.com/chefkoch0312/weather_dashboard_react.git
